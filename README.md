@@ -15,5 +15,5 @@ How it's implemented:
 ## Demo
 
 
-https://user-images.githubusercontent.com/876920/111560633-1ab2f000-8750-11eb-86b3-166a35617f97.mov
+![Demo](https://user-images.githubusercontent.com/876920/111560633-1ab2f000-8750-11eb-86b3-166a35617f97.mov)
 
