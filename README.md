@@ -10,3 +10,10 @@ How it's implemented:
   * Send `evaluate` request to the debug session
   * Create a rich output for the cell, a `text/plain` one and a custom `application/data-structure` mimetype.
   * `application/data-structure` mimetype is rendered by a custom renderer, which is on top's `@hediet/visualization-bundle`
+
+
+## Demo
+
+
+https://user-images.githubusercontent.com/876920/111560633-1ab2f000-8750-11eb-86b3-166a35617f97.mov
+
