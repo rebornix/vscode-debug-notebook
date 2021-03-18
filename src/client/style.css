@@ -1,0 +1,7 @@
+@import "~@hediet/visualization-bundle/style.scss";
+
+.json code {
+  font-family: monospace;
+  font-size: 12px;
+  color: lightblue;
+}
